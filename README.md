@@ -1,0 +1,1 @@
+# zts26-cvStreda-testsquad

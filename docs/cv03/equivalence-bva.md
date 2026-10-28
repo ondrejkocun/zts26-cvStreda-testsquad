@@ -1,5 +1,6 @@
 # Ekvivalenčné triedy a analýza hraničných hodnôt
 
+
 ## Testovaný vstup
 
 - Funkcia: **Transfer funds**
